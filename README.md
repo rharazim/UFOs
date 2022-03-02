@@ -7,6 +7,12 @@ We have been tasked to help our friend Dana with building a webpage that others 
 ## Results
 https://rharazim.github.io/UFOs/
 
+https://github.com/rharazim/UFOs/blob/main/Filters.png
+
+https://github.com/rharazim/UFOs/blob/main/Table.png
+
 ## Summary
 
+One drawback of this webpage is that the search function is case-specific, meaning that it might be harder for users to find the right information if they do not know the dataset as well. 
 
+An additional development that could make this webpage better is a function that would allow for both upper and lower case searches to match each other. Also, being able to trim spaces at the end of words would be helpful.
